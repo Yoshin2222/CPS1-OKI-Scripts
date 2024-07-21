@@ -1,3 +1,7 @@
+Python Scripts designed to Extract/compile Samples to and from CPS1 games. Simply add the unzipped
+game to roms, generate resources if ya haven't already and have fun!
+Script made with Python 3.10.6
+
 - GENERATE RESOURCES
 The script reads capcom-cps1.cpp and isolates every game, outputting a resource file for every
 compatible game containing the names of every OKI ROM as well as their sizes
